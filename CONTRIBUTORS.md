@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Kamil Cywiński](https://github.com/kcywinski)
+- Place: Warsaw, Poland
+- Bio: Software Developer, Student at University of Warsaw
+- GitHub: [kcywinski](https://github.com/kcywinski)
